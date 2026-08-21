@@ -1,0 +1,10 @@
+[theme]
+base = "light"
+primaryColor = "#ff4b4b"
+backgroundColor = "#262730"
+secondaryBackgroundColor = "#111c24"
+textColor = "#ffffff"
+font = "sans serif"
+
+[general]
+python_version = "3.11"
